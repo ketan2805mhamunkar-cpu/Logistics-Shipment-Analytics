@@ -1,0 +1,10 @@
+Column,Q1,Q3,Lower_Bound,Upper_Bound,Outlier_Count
+Quantity,50.0,150.0,-100.0,300.0,35
+Weight_kg,93.24,473.42,-477.02,1043.68,509
+Distance_km,940.9,1942.8,-561.95,3445.65,40
+Shipping_Cost_INR,10820.93,72477.65,-81664.15,164962.73,3697
+Fuel_Surcharge_INR,722.42,5196.62,-5988.88,11907.91,4128
+Customer_Rating,2.0,4.0,-1.0,7.0,0
+Dispatch_Days,1.0,3.0,-2.0,6.0,5823
+Delivery_Days,3.0,6.0,-1.5,10.5,2447
+Total_Transport_Cost_INR,11613.28,77677.81,-87483.52,176774.6,3518
